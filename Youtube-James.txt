@@ -1,6 +1,4 @@
 # AdGuard Blocklist - Youtube
-# Curated from sources online.     
-# Last updated: 11 december 2019
 
 ||youtube.com^$client="James devices"
 ||ytimg.com^$client="James devices"
