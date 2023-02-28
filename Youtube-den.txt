@@ -1,0 +1,8 @@
+# AdGuard Blocklist - Youtube
+
+||youtube.com^$client="Den ShieldTV"
+||ytimg.com^$client="Den ShieldTV"
+||youtubei.googleapis.com^$client="Den ShieldTV"
+||youtube.googleapis.com^$client="Den ShieldTV"
+||youtube-nocookie.com^$client="Den ShieldTV"
+||googlevideo.com^$client="Den ShieldTV"
