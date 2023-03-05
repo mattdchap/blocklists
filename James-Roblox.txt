@@ -1,0 +1,4 @@
+# AdGuard Blocklist - Roblox
+
+||roblox.com^$client="James devices"
+||rbxcdn.com^$client="James devices"
