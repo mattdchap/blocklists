@@ -1,0 +1,8 @@
+# AdGuard Blocklist - Hailey
+
+||youtube.com^$client="Hailey devices"
+||ytimg.com^$client="Hailey devices"
+||youtubei.googleapis.com^$client="Hailey devices"
+||youtube.googleapis.com^$client="Hailey devices"
+||youtube-nocookie.com^$client="Hailey devices"
+||googlevideo.com^$client="Hailey devices"
