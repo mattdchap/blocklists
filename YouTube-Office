@@ -1,0 +1,8 @@
+# AdGuard Blocklist - Youtube
+
+||youtube.com^$client="GoogleTV"
+||ytimg.com^$client="GoogleTV"
+||youtubei.googleapis.com^$client="GoogleTV"
+||youtube.googleapis.com^$client="GoogleTV"
+||youtube-nocookie.com^$client="GoogleTV"
+||googlevideo.com^$client="GoogleTV"
