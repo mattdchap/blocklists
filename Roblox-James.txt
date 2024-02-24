@@ -1,8 +1,8 @@
 # AdGuard Blocklist - Roblox
 
-||roblox.com^$important,$client="James devices"
-||rbxcdn.com^$important,$client="James devices"
-||rbxtrk.com^$important,$client="James devices"
+||roblox.com^$important,client="James devices"
+||rbxcdn.com^$important,client="James devices"
+||rbxtrk.com^$important,client="James devices"
 ||roblox-c0.cachefly.net^$client="James devices"
 ||roblox-c1.cachefly.net^$client="James devices"
 ||roblox-c2.cachefly.net^$client="James devices"
