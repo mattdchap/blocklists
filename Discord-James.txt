@@ -1,3 +1,7 @@
 # AdGuard Blocklist - Discord
 
 ||discord.com^$important,client="James devices"
+||discordapp.com^$important,client="James devices"
+||discord.gg^$important,client="James devices"
+||discord.app.com^$important,client="James devices"
+||discordapp.net^$important,client="James devices"
