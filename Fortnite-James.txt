@@ -1,0 +1,5 @@
+# AdGuard Blocklist - Fortnite
+
+||epicgames.com^$important,client="James devices"
+||epicgames.dev^$important,client="James devices"
+||fortnite.com^$important,client="James devices"
