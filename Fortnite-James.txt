@@ -4,3 +4,5 @@
 ||epicgames.dev^$important,client="James devices"
 ||fortnite.com^$important,client="James devices"
 ||krunker.io^$important,client="James devices"
+||crazygames.com^$important,client="James devices"
+||1v1.lol^$important,client="James devices"
