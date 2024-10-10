@@ -7,3 +7,4 @@
 ||crazygames.com^$important,client="James devices"
 ||1v1.lol^$important,client="James devices"
 ||brawlstars.com^$important,client="James devices"
+||supercell.com^$important,client="James devices"
