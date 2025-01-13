@@ -6,4 +6,5 @@
 ||krunker.io^$important,client="James devices"
 ||crazygames.com^$important,client="James devices"
 ||1v1.lol^$important,client="James devices"
-
+||ea.com^$important,client="James devices"
+||rocketleague.com^$important,client="James devices"
