@@ -1,4 +1,4 @@
-# AdGuard Blocklist - Fortnite
+# AdGuard Blocklist - Games
 
 ||epicgames.com^$important,client="James devices"
 ||epicgames.dev^$important,client="James devices"
@@ -8,3 +8,7 @@
 ||1v1.lol^$important,client="James devices"
 ||ea.com^$important,client="James devices"
 ||rocketleague.com^$important,client="James devices"
+||brawlstars.com^$important,client="James devices"
+||supercell.com^$important,client="James devices"
+||brawlstarsgame.com^$important,client="James devices"
+||playhop.com^$important,client="James devices"
