@@ -30,5 +30,7 @@
 ||brawlstarsgame.com^$important,client="James devices"
 ||playhop.com^$important,client="James devices"
 ||minecraftservices.com^$important,client="James devices"
+||minecraft-services.net^$important,client="James devices"
 ||minecraft.net^$important,client="James devices"
 ||lunarclient.com^$important,client="James devices"
+||mojang.com^$important,client="James devices"
