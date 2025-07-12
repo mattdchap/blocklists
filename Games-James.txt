@@ -34,3 +34,4 @@
 ||minecraft.net^$important,client="James devices"
 ||lunarclient.com^$important,client="James devices"
 ||mojang.com^$important,client="James devices"
+||donutsmp.net^$important,client="James devices"
