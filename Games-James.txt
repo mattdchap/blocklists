@@ -35,3 +35,4 @@
 ||lunarclient.com^$important,client="James devices"
 ||mojang.com^$important,client="James devices"
 ||donutsmp.net^$important,client="James devices"
+||aternos.me^$important,client="James devices"
