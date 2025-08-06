@@ -27,6 +27,7 @@
 ||rocketleague.com^$important,client="James devices"
 ||brawlstars.com^$important,client="James devices"
 ||supercell.com^$important,client="James devices"
+||supercell.net^$important,client="James devices"
 ||brawlstarsgame.com^$important,client="James devices"
 ||playhop.com^$important,client="James devices"
 ||minecraftservices.com^$important,client="James devices"
