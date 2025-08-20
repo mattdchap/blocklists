@@ -1,4 +1,4 @@
-# AdGuard Blocklist - Youtube
+# AdGuard Blocklist - Streaming
 
 ||youtube.com^$client="James devices"
 ||ytimg.com^$client="James devices"
@@ -13,3 +13,6 @@
 ||discordapp.net^$important,client="James devices"
 ||twitch.tv^$important,client="James devices"
 ||twitchcdn.net^$important,client="James devices"
+||tiktok.com^$important,client="James devices"
+||tiktokv.com^$important,client="James devices"
+||tiktokcdn.com^$important,client="James devices"
