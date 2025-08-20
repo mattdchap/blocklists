@@ -6,3 +6,6 @@
 ||youtube.googleapis.com^$client="Hailey devices"
 ||youtube-nocookie.com^$client="Hailey devices"
 ||googlevideo.com^$client="Hailey devices"
+||tiktok.com^$important,client="Hailey devices"
+||tiktokv.com^$important,client="Hailey devices"
+||tiktokcdn.com^$important,client="Hailey devices"
