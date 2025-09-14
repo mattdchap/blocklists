@@ -1,8 +1,8 @@
 # AdGuard Blocklist - Youtube
 
-||youtube.com^$client="ShieldTV-Fam"
-||ytimg.com^$client="ShieldTV-Fam"
-||youtubei.googleapis.com^$client="ShieldTV-Fam"
-||youtube.googleapis.com^$client="ShieldTV-Fam"
-||youtube-nocookie.com^$client="ShieldTV-Fam"
-||googlevideo.com^$client="ShieldTV-Fam"
+||youtube.com^$client="ShieldTV-FAM"
+||ytimg.com^$client="ShieldTV-FAM"
+||youtubei.googleapis.com^$client="ShieldTV-FAM"
+||youtube.googleapis.com^$client="ShieldTV-FAM"
+||youtube-nocookie.com^$client="ShieldTV-FAM"
+||googlevideo.com^$client="ShieldTV-FAM"
