@@ -37,3 +37,6 @@
 ||mojang.com^$important,client="James devices"
 ||donutsmp.net^$important,client="James devices"
 ||aternos.me^$important,client="James devices"
+||nianticlabs.com^$important,client="James devices"
+||pokemongolive.com.com^$important,client="James devices"
+||nianticstatic.com^$important,client="James devices"
